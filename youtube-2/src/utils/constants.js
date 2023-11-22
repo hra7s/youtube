@@ -8,4 +8,5 @@ export const YOUTUBE_VIDEOS_API =
 GOOGLE_API_KEY;
 console.log(YOUTUBE_VIDEOS_API)
 
+export const search_api="http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q="
 
